@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="533" height="450" viewBox="0 0 533 450">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="533" height="450" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" y2="-1.312" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8e2de2"/>
+      <stop offset="1" stop-color="#4a00e0"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+    <g id="Rectangle_12" data-name="Rectangle 12" stroke="#707070" stroke-width="1" fill="url(#linear-gradient)">
+      <rect width="533" height="450" stroke="none"/>
+      <rect x="0.5" y="0.5" width="532" height="449" fill="none"/>
+    </g>
+    <path id="Path_8" data-name="Path 8" d="M1686.379,506.017l560.771-641.2,63.933,337.625Z" transform="translate(-1686.379 -56.069)" fill="#883fff" style="mix-blend-mode: overlay;isolation: isolate"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="118.273" cy="118.273" r="118.273" transform="translate(-65.22 -24.1)" fill="#fff" style="mix-blend-mode: overlay;isolation: isolate"/>
+    <path id="Path_9" data-name="Path 9" d="M1245.575-76.1,812.092,10.01l366.068,357.533Z" transform="translate(-1024.365 -142.543)" fill="#883fff" opacity="0.38"/>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="73.506" cy="73.506" r="73.506" transform="translate(379.604 397.765) rotate(-45)" fill="#95dcd1" style="mix-blend-mode: overlay;isolation: isolate"/>
+  </g>
+</svg>
